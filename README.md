@@ -1,5 +1,5 @@
 
-<h1>Hey, Im Ilja. I love web dev, React and Java!</h1>
+<h1>I love web dev, <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/react.svg" />React and <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/java.svg" />Java!</h1>
 
 <h3>Stuff I use</h3>
 
@@ -23,4 +23,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IljaZa)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IljaZa)](https://github.com/anuraghazra/github-readme-stats)
-
