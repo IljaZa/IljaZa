@@ -1,5 +1,5 @@
 
-<h1>Hey, Im Ilja. I love web dev, React and Spring Boot!</h1>
+<h1>Hey, Im Ilja. I love web dev, React and Java!</h1>
 
 <h3>Stuff I use</h3>
 
